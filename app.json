@@ -2,7 +2,7 @@
   "name": "Approve-All-JoinRequests",
   "description": "Approve all pending join requests on your telegram channel with using user session",
   "keywords": ["telegram", "bot"],
-  "repository": "https://github.com/MrMKN/Approve-All-JoinRequests",
+  "repository": "https://github.com/Movieschannelofficials/All-RequestsAcceptor",
   "env": {
     "API_ID": {"description": "Your telegram API ID, Get it from my.telegram.org", "value": ""},
     "API_HASH": {"description": "Your telegram API HASH, Get it from my.telegram.org", "value": ""},
